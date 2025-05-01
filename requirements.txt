@@ -9,5 +9,3 @@ gunicorn
 whitenoise
 django-cors-headers
 tensorflow
-pickle
-rest_framework
